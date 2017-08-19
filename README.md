@@ -1,3 +1,5 @@
+# VJS Scaffolding
+
 Server Side JS Application Template. 
 
 1. Uses `mocha`, `sinon`, `chai` and `istanbul` for testing
