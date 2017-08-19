@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/theflazer/vjs-scaffolding/issues"
   },
-  "homepage": "https://github.com/theflazer/vjs-scaffolding#readme"
+  "homepage": "https://github.com/theflazer/vjs-scaffolding#readme",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "flow": "^0.2.3",
+    "sinon": "^3.2.1"
+  }
 }
